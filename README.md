@@ -1,2 +1,2 @@
-# amazon_clone
+# amazon
 first frontend project
